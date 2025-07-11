@@ -37,19 +37,18 @@ aes_implementation_python/
 🛠️ How to Run
 Clone the Repository:
 
-bash
 Copy
-Edit
+
 git clone https://github.com/kapish-bhati/aes_implementation_python.git
+
 cd aes_implementation_python
+
+
 Run the Program:
 
-bash
 Copy
-Edit
 python main.py
-Example Output:
-You will see a step-by-step encryption and decryption process for sample data.
+
 
 ✅ Requirements
 Python 3.x (tested on Python 3.10+)
