@@ -17,12 +17,19 @@ This repository contains a custom implementation of the **Advanced Encryption St
 aes_implementation_python/
 │
 ├── aes.py               # Main AES encryption and decryption logic
+
 ├── key_expansion        # Key expansion routines
+
 ├── mix_columns          # MixColumns and InvMixColumns operations
+
 ├── shift_rows           # ShiftRows and InvShiftRows functions
+
 ├── sub_bytes            # SubBytes and InvSubBytes operations
+
 ├── sbox                 # AES S-box and Inverse S-box
+
 ├── main                 # Sample usage / Entry point
+
 └── README.md            # Project documentation
 
 
